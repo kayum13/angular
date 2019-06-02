@@ -41,7 +41,7 @@ module.exports = "\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<p>\n  about works!\n</p>\n"
+module.exports = "<h1>About</h1>\n"
 
 /***/ }),
 
